@@ -289,15 +289,7 @@ a:hover.touch{color:#f47920;}
 @media (max-width:950px){
 .fiver li{width:22%}}
 @media (max-width:840px){
-.nav-toggle{display:block}
-.toggle-nav{display:block;float:right;color:#000;font-size:30px;padding:10px}
-.search-nav{display:block;float:right;color:#000;font-size:23px;padding:10px 5px}
-.nav-none{display:none!important}
-ul.menu-left{display:block;max-height:0;overflow:hidden;-webkit-transition:all 0.3s ease-out;-moz-transition:all 0.3s ease-out;-ms-transition:all 0.3s ease-out;-o-transition:all 0.3s ease-out;transition:all 0.3s ease-out;z-index:10}
-ul.menu-left:before{content:'';display:table;clear:both}
-ul.menu-left.collapse{max-height:15em!important}
-.menu-left a:hover:before,.menu-left a:hover:after{width:0%;transition:none}
-.menu-left a:before,.menu-left a:after{content:none;position:unset;height:0;width:0;transition:none}}
+
 @media (max-width:870px){
 .cand{width:21.5%}}
 @media (max-width:840px){
